@@ -11342,9 +11342,9 @@ progress {
 }
 
 .font-genSen {
-  font-family: "Segoe UI", "Gen Sen", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Gen Sen", serif;
 }
 
 .font-NotoSerifTC {
-  font-family: "Segoe UI", "Noto Serif TC", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-family: "Noto Serif TC", serif;
 }/*# sourceMappingURL=master.css.map */
