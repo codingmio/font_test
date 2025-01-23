@@ -1,0 +1,44 @@
+// 思源黑體 Noto Sans TC
+@font-face {
+  font-family: "Noto Sans TC", serif;
+  src: url('basefonts/NotoSansTC-VariableFont_wght.ttf');
+  src:     url('basefonts/NotoSansTC-VariableFont_wght.ttf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+$font-family-noto-sans-tc: "Segoe UI", "Noto Sans TC", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+// 台北黑體 Taipei Sans
+@font-face {
+  font-family: "Taipei Sans", serif;
+  src: url('basefonts/TaipeiSansTCBeta-Regular.ttf');
+  src: url('basefonts/TaipeiSansTCBeta-Regular.ttf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+$font-family-taipei-sans: "Segoe UI", "Taipei Sans", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+// 源泉圓體 GenSen
+@font-face {
+  font-family: "Gen Sen", serif;
+  src:  url(basefonts/GenSen.woff) format('woff'),
+        url(basefonts//GenSen.woff2) format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+$font-family-gen-sen: "Segoe UI", "Gen Sen", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+// 思源宋體 Noto Serif Traditional Chinese
+// @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200..900&display=swap');
+@font-face {
+  font-family: "Noto Serif TC", serif;
+  src: url('basefonts/NotoSerifTC-VariableFont_wght.ttf');
+  src: url('basefonts/NotoSerifTC-VariableFont_wght.ttf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+$font-family-noto-serif-tc: "Segoe UI", "Noto Serif TC", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
